@@ -71,3 +71,18 @@ img {
   padding: 1rem;
   border-radius: 7px;
 }
+
+footer {
+  /* display: inline; */
+  position: absolute;
+  right: 5px;
+  bottom: 3px;
+}
+.foot-msg {
+  display: inline;
+  color: darkmagenta;
+  font-size: 1.3em;
+  font-weight: 700;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
